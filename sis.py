@@ -20,7 +20,9 @@ def frist_page():
     soup=BeautifulSoup(new.content,"html5lib")
 def get_info(url):
     pass
-def in
+def db_check():
+    pass
     
 if __name__=="__main__":
+    pass
     
